@@ -9,3 +9,5 @@ print(
     my name is James \
     . Would you like to come here?"
 )
+
+t = ["saag", 2, 4, 14, "34", 35323]
