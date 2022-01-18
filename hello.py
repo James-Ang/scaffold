@@ -11,3 +11,9 @@ print(
 )
 
 t = ["saag", 2, 4, 14, "34", 35323]
+
+d = {
+    "a": "hello",
+    "b": "there",
+    "c": "The quick brown fox jumps over the lazy dog. Be a good boy.",
+}
