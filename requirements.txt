@@ -1,2 +1,7 @@
 black
 pandas
+pylint
+pre-commit
+pytest
+pytest-cov
+seaborn
